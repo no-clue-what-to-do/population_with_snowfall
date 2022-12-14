@@ -1,5 +1,8 @@
 Population With Snowfall
 
+Article found here:
+https://medium.com/@krludlum/its-really-weird-to-live-where-it-snows-a48c7dea191b
+
 A little bit of code trying to estimate how much of the world popualtion lives in a place where it snows by combining gridded popualtion and snow data.
 
 All of the snow data is uploaded to the git page, but the population datafile is huge, so it can be found and downloaded here: https://hub.worldpop.org/geodata/summary?id=24777
